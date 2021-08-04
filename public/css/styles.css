@@ -1,0 +1,168 @@
+body{
+  font-family: "verdana";
+}
+/*navbar*/
+.navbar{
+  padding-bottom: 2rem;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Ubuntu";
+  font-weight: lighter;
+
+}
+#home{
+  background-color: #867ae9;
+}
+.home-fluid{
+  padding: 3% 5%;
+}
+
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+.class="heading"{
+  font-family: "Ubuntu-bold";
+}
+
+/*Download*/
+.download-button{
+  margin: 7% 3% 7% 0;
+}
+
+/*features*/
+#features{
+  padding: 7% 15%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+/*icon buttoms*/
+.icon{
+  color: #867ae9;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #9ede73;
+}
+
+/*home*/
+#home{
+  color: #fff;
+}
+.about-image{
+  border-radius:50px;
+  height: 100%;
+  width: 90%;
+
+}
+/*testimonials section*/
+
+#testimonials{
+
+  text-align: center;
+  background-color:#867ae9;
+  color: #fff;
+}
+.testi-h2{
+    font-family: 'Montserrat-bold', sans-serif;
+    font size: 10rem;
+    line height: 1.5;
+
+  }
+  .testimonial-image{
+    border-radius: 100%;
+    margin: 20px;
+  }
+.carousel-item{
+  padding: 7% 15%;
+}
+  /*section-press*/
+#press{
+  background-color: #867ae9;
+
+  padding: 3%;
+}
+.press-image{
+  height: 220px;
+  width: 280px;
+  border-radius: 100%;
+  padding: 3% 5%;
+}
+.press-image1{
+  height: 100px;
+  width: 450px;
+}
+
+/* ABOUT-APP-SECTION */
+#About-app{
+  text-align: center;
+
+}
+.about_app-image{
+  height: 150px;
+  margin-top: 15%;
+  margin-bottom: 5%;
+  width: 150px;
+  border-radius: 100%;
+}
+.about-app-p{
+  line-height: 2;
+  margin: 10%
+}
+
+/*ceo-section*/
+
+.ceo-photo{
+  height: 200px;
+  width: 200px;
+}
+
+.quote{
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: normal;
+  font-family: "Ubuntu";
+}
+.about-ceo{
+  line-height: 2;
+
+  margin: 5%
+}
+.featurette-heading{
+  font-family: 'Montserrat-bold', sans-serif;
+  line-height: 1.5;
+  font-size: 2rem;
+}
+.web-link{
+  text-decoration: none;
+
+}
+
+/* Copyright Section*/
+.bottom-container{
+  background-color: #325288;
+  padding: 50px 50px 20px;
+}
+.footer-link{
+  font-size: 1.5rem;
+  padding: 1%;
+  text-decoration: none;
+}
+
+.copyright{
+  color: #f7f3e9;
+  font-size: 0.80rem;
+  padding-top: 40px;
+  padding-bottom: 0;
+}
+#end{
+  text-align: center;
+}

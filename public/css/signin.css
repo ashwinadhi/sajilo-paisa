@@ -1,0 +1,71 @@
+html,
+body {
+  height: 100%;
+  font-family: "Ubuntu";
+}
+
+body {
+  /* display: flex; */
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eeee;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin .form-floating .top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin .form-floating .middle {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-radius: 0;
+}
+
+.form-signin .form-floating .buttom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.link_password{
+  text-decoration: none;
+
+}
+
+.logoMargin{
+  margin-bottom: 25px;
+  padding-left: 15px;
+}
+.bottom-container{
+  background-color: #867ae9;
+  padding: 50px 50px 20px;
+}
+.footer-link{
+  font-size: 1.5rem;
+  padding: 1%;
+  text-decoration: none;
+}
+.copyright{
+  color: #f7f3e9;
+  font-size: 0.80rem;
+  padding-top: 40px;
+  padding-bottom: 0;
+}
